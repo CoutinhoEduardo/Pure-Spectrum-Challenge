@@ -60,4 +60,4 @@ Here you can convert your .html into another extension, you choose the extension
 
 - The system is now able to convert a .html to a pdf file for example and test.
 
-## Here you can find a technical documentation about the project: "diagram.jpg"
+## You can find the technical documentation about the project in the file "diagram.jpg"
