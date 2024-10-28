@@ -2,8 +2,6 @@
 
 > A simple project that can convert your files and merge them, this project was made using SOLID principles.
 
-### Ajustes e melhorias
-
 Here are some things the project is able to do:
 
 - [x] Merge multiples .pdf files into one file
